@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="363b8cf6-4c1d-4245-96a6-4a58488c3f58" name="Default Changelist" comment="" />
+    <list default="true" id="363b8cf6-4c1d-4245-96a6-4a58488c3f58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/varn/main/primitiveType/PrimitiveType.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/varn/main/primitiveType/PrimitiveType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varn/main/primitiveType/PrimitiveType.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +73,7 @@
       <updated>1568904527810</updated>
       <workItem from="1568904530913" duration="177000" />
       <workItem from="1569145671859" duration="3894000" />
-      <workItem from="1569246809009" duration="267000" />
+      <workItem from="1569246809009" duration="1421000" />
     </task>
     <servers />
   </component>

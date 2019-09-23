@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363b8cf6-4c1d-4245-96a6-4a58488c3f58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/varn/main/javaArray/JavaArray.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varn/main/javaObject/JavaObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varn/main/javaObject/JavaObject.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/varn/main/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varn/main/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/varn/main/JavaArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varn/main/javaArray/JavaArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
       <updated>1568904527810</updated>
       <workItem from="1568904530913" duration="177000" />
       <workItem from="1569145671859" duration="3894000" />
-      <workItem from="1569246809009" duration="2546000" />
+      <workItem from="1569246809009" duration="3194000" />
     </task>
     <task id="LOCAL-00001" summary="从控制台读取数组长度来创建数组并输出">
       <created>1569248926196</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569248926196</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="文件">
+      <created>1569249389056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569249389056</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +122,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="从控制台读取数组长度来创建数组并输出" />
-    <option name="LAST_COMMIT_MESSAGE" value="从控制台读取数组长度来创建数组并输出" />
+    <MESSAGE value="文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件" />
   </component>
 </project>

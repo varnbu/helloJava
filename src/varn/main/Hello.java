@@ -1,6 +1,7 @@
 package varn.main;
 
 import varn.main.javaArray.JavaArray;
+import varn.main.javaObject.JavaObject;
 
 /**
  * 程序的入口类
@@ -16,7 +17,12 @@ public class Hello {
 //        System.out.println(b.getSecond());
 //        int[] arr = new int[]{1, 4, 6, 7, 9, 100};
 //        System.out.println(Hello.getMiddle(arr));
-        JavaArray.arrayTest();
+
+//        JavaArray.arrayTest();
+
+        JavaObject a = new JavaObject();
+        a.setId();
+        System.out.println(JavaObject.nexId);
     }
 
     public static <T> T getMiddle(T... a) {

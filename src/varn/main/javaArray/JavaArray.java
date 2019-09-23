@@ -1,4 +1,4 @@
-package varn.main;
+package varn.main.javaArray;
 
 import java.util.Scanner;
 

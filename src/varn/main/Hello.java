@@ -1,5 +1,7 @@
 package varn.main;
 
+import varn.main.javaArray.JavaArray;
+
 /**
  * 程序的入口类
  */

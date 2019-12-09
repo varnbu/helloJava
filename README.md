@@ -1,2 +1,3 @@
 # helloJava
-java 学习记录
+java 基础学习
+

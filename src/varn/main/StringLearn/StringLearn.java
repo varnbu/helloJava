@@ -1,6 +1,7 @@
 package varn.main.StringLearn;
 
 import com.sun.xml.internal.ws.util.StringUtils;
+import varn.main.javaArray.WeekDay;
 
 import java.util.Arrays;
 
@@ -65,5 +66,10 @@ public class StringLearn {
 
 //      StringJoiner 用户拼接数组字符串  类似于 String.join  但是 可以多两个参数用户指定字符串的开头结尾
 
+
+        System.out.println(123333);
+        System.out.println(Arrays.toString(WeekDay.values()));
+        System.out.println(WeekDay.FRI);
+        System.out.println(WeekDay.FRI.value);
     }
 }

@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363b8cf6-4c1d-4245-96a6-4a58488c3f58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/varn/main/javaObject/JavaObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varn/main/javaObject/JavaObject.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varn/main/StringLearn/StringLearn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/varn/main/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/varn/main/Hello.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,26 +36,20 @@
   </component>
   <component name="ProjectId" id="1R3nDUtHBXjYnMuXH1NWj4mgZU0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StringLearn">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="varn.main.Hello" />
       <module name="helloJava" />
@@ -72,11 +63,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="varn.main.StringLearn.StringLearn" />
+      <module name="helloJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="varn.main.StringLearn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringLearn" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -91,6 +108,7 @@
       <workItem from="1568904530913" duration="177000" />
       <workItem from="1569145671859" duration="3894000" />
       <workItem from="1569246809009" duration="3194000" />
+      <workItem from="1575853311872" duration="4787000" />
     </task>
     <task id="LOCAL-00001" summary="从控制台读取数组长度来创建数组并输出">
       <created>1569248926196</created>
@@ -106,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569249389056</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="文件">
+      <created>1575853346372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575853346372</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +142,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -128,5 +155,35 @@
     <MESSAGE value="从控制台读取数组长度来创建数组并输出" />
     <MESSAGE value="文件" />
     <option name="LAST_COMMIT_MESSAGE" value="文件" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="46" key="CommitChangelistDialog2" timestamp="1575853345832">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="489" y="46" key="CommitChangelistDialog2/0.0.1920.1050/-1920.-358.1920.1050@0.0.1920.1050" timestamp="1575853345832" />
+    <state width="1867" height="284" key="GridCell.Tab.0.bottom" timestamp="1575858663429">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.-358.1920.1050@0.0.1920.1050" timestamp="1575858663429" />
+    <state width="1867" height="284" key="GridCell.Tab.0.center" timestamp="1575858663429">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="284" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.-358.1920.1050@0.0.1920.1050" timestamp="1575858663429" />
+    <state width="1867" height="284" key="GridCell.Tab.0.left" timestamp="1575858663429">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="284" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.-358.1920.1050@0.0.1920.1050" timestamp="1575858663429" />
+    <state width="1867" height="284" key="GridCell.Tab.0.right" timestamp="1575858663429">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="284" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.-358.1920.1050@0.0.1920.1050" timestamp="1575858663429" />
+    <state x="345" y="79" key="SettingsEditor" timestamp="1575855499667">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="345" y="79" key="SettingsEditor/0.0.1920.1050/-1920.-358.1920.1050@0.0.1920.1050" timestamp="1575855499667" />
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1575853348907">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.-358.1920.1050@0.0.1920.1050" timestamp="1575853348907" />
   </component>
 </project>

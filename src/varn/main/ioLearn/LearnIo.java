@@ -31,6 +31,7 @@ public class LearnIo {
         System.out.println(f.isFile());
         System.out.println(f.isDirectory());
         System.out.println(f.canRead());
+
         System.out.println(f.canWrite());
         System.out.println(f.canExecute());
         System.out.println(f.length());
